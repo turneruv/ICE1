@@ -8,6 +8,8 @@ public class CardTrick {
     public static void main(String[] args)
     {
        Card c1=new Card();
+       c1.setSuit("Hearts");
+       c1.setValue(4);
     }
     
 }
